@@ -1,6 +1,4 @@
-A tiles level editor. To get an idea see the following video :
-
-[https://youtu.be/B5b2wTN1G7s](Youtube : Unity Level Builder)
+A tiles level editor. To get an idea see the following video : [Youtube : Unity Level Builder](https://youtu.be/B5b2wTN1G7s)
 
 
 
